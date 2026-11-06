@@ -1,2 +1,10 @@
 # hakka26-flutter
-Standalone Flutter workspace for hakkahakka26. Not a fork; independent of hakka26-reactnative, hakka26-swift, and hakka26-android.
+
+Standalone Flutter project for the hakkahakka26 OTP screen. This repository is not a fork, and it is independent of the other stack workspaces.
+
+The submission lives in `submissions/aymanissa-dev-flutter/`.
+
+```sh
+cd submissions/aymanissa-dev-flutter/app
+flutter test
+```
